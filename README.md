@@ -1,2 +1,2 @@
 # azure-sdk-csharp-samp
-for testing purpose
+for testing purpose in Azure
